@@ -24,7 +24,6 @@ Make sure you have the following installed before running the project:
 
 You can install the required packages using the following command:
 
-```bash
 pip install torch numpy
 
 ## Dataset
